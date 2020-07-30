@@ -1,0 +1,29 @@
+.buttom{
+    float: center;
+    background-color: red;
+}
+
+table{
+    border: red 20px solid;
+    background: brown;
+}
+.nav{
+    border-color: black;
+}
+.nav-pills .nav-link.active, 
+.nav-pills .show>.nav-link{
+     background:darkviolet;
+    border-radius: 0;
+    font-family: 'Times New Roman';
+}
+.nav-pills .nav-link.dropdown-toggle, 
+.nav-pills .show>.nav-link{
+     background:darkviolet;
+    border-radius: 0;
+    font-family: 'Times New Roman';
+    color:white;
+}
+.my-custom-nav .nav-link.active, 
+.my-custom-nav .show>.nav-link{
+     background:darkviolet 
+}
